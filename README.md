@@ -17,7 +17,7 @@ Vue.use(ImagePreview)
 ```
 
 ```js
-export class {
+export default {
   data: () => ({
     // 数组方式
     defaultImagePath: ['url1', 'url2'],
@@ -38,3 +38,4 @@ export class {
 ## 更新日志
 
 - 2/7: 修复切换箭头的异常BUG
+- 2/7: 文档书写错误

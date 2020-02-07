@@ -1,6 +1,6 @@
 {
   "name": "image-preview-full",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "基于 Vue 的全屏图片预览组件@typescript",
   "main": "lib/image-preview-full.umd.min.js",
   "keyword": "image preview full",
